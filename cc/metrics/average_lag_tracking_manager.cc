@@ -121,4 +121,4 @@ void AverageLagTrackingManager::Clear() {
   frame_token_to_info_.clear();
 }
 
-}  // namespace cc
+}  
